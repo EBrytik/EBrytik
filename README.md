@@ -19,8 +19,6 @@
 ![Eva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EBrytik&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EBrytik&layout=compact&theme=tokyonight)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=EBrytik&theme=tokyonight&no-frame=true&column=6&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## Contact
