@@ -1,9 +1,5 @@
 # Hi, I'm Eva
 
-I'm a high school student who’s really into computer science, competitive programming, and math. I like building tools that are actually useful, teaching programming to kids, and organizing CS events for my school.
-
-I'm also the incoming president of our school's CS Club, where we run tracks for both beginners and competitive coders (USACO + UIL).
-
 ---
 
 ## Tech Stack
@@ -15,16 +11,6 @@ I'm also the incoming president of our school's CS Club, where we run tracks for
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
----
-
-## Projects
-
-**Smart Garden Monitor**  
-Raspberry Pi-based irrigation system that monitors soil conditions, uses weather data, and can run offline. Written in Python with a modular design for automation and solar support.
-
-**Python Curriculum for Kids**  
-Teaching slides and projects for beginners. Covers loops, variables, turtle graphics, error handling, and using APIs.
 
 ---
 
